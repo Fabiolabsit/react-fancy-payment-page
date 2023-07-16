@@ -16,7 +16,7 @@ Inspired from a vue project [vue-interactive-paycard](https://github.com/muhamme
 ## Installation
 
 ```bash
-git clone
+git clone https://github.com/Wizard-Squad/react-fancy-payment-page.git
 ```
 ```bash
 cd react-fancy-payment-page
